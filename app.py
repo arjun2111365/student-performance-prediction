@@ -3,8 +3,6 @@ import pandas as pd
 import joblib
 
 
-st.title("TEST - Student Performance Prediction")
-st.write(" Streamlit is executing app.py.")
 
 FEATURE_COLS = [
     "StudyHours",
